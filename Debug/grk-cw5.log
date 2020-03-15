@@ -1,0 +1,8 @@
+﻿  main_5_1.cpp
+c:\users\krystyna\desktop\uam\informatyka\semestr iv\grafika\projekt\src\main_5_1.cpp(168): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\krystyna\desktop\uam\informatyka\semestr iv\grafika\projekt\src\main_5_1.cpp(174): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\krystyna\desktop\uam\informatyka\semestr iv\grafika\projekt\src\main_5_1.cpp(196): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\krystyna\desktop\uam\informatyka\semestr iv\grafika\projekt\src\main_5_1.cpp(202): warning C4305: 'argument': truncation from 'double' to 'float'
+Camera.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  grk-cw5.vcxproj -> C:\Users\Krystyna\Desktop\UAM\INFORMATYKA\semestr IV\grafika\projekt\Debug\grk-cw5.exe
+  grk-cw5.vcxproj -> C:\Users\Krystyna\Desktop\UAM\INFORMATYKA\semestr IV\grafika\projekt\Debug\grk-cw5.pdb (Full PDB)
